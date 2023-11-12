@@ -1,4 +1,5 @@
 # Gist's (Snippets of code)
+[Regression with nonlinear relationships](https://gist.github.com/Z4KKD/4d08c2d966a673671ff7a6fc6643961c) <br>
 [Regression with categorical predictors](https://gist.github.com/Z4KKD/f26099b9f5025c01ccd945f2ea4aa152) <br>
 [Multiple regression](https://gist.github.com/Z4KKD/6e23e7c859cc066888af4b6c7dcbf50e) <br>
 [Creating correlation matrices](https://gist.github.com/Z4KKD/9bfc55587b768f5673ed5fb908bf8b50) <br>
