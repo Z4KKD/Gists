@@ -1,5 +1,9 @@
 # Gist's (Snippets of code)
 
+[Contains the character](https://gist.github.com/Z4KKD/7ac9f066742c186beeb8ccb79042357a) <br>
+[Replacement words](https://gist.github.com/Z4KKD/b79fa42882d44e6c1f064923000aee20) <br>
+[Adjust list by normalizing](https://gist.github.com/Z4KKD/6f3b12366e611d65a1c0e1a9a84484f8) <br>
+[Output values below an amount](https://gist.github.com/Z4KKD/e0ebe13806bd4922680c458bcb9feb87) <br>
 [Regression with nonlinear relationships](https://gist.github.com/Z4KKD/4d08c2d966a673671ff7a6fc6643961c) <br>
 [Regression with categorical predictors](https://gist.github.com/Z4KKD/f26099b9f5025c01ccd945f2ea4aa152) <br>
 [Multiple regression](https://gist.github.com/Z4KKD/6e23e7c859cc066888af4b6c7dcbf50e) <br>
