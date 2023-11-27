@@ -1,5 +1,6 @@
 # Gist's (Snippets of code)
-
+[scale() and MinMaxScaler()](https://gist.github.com/Z4KKD/6219f6c488449676a4ad8400ed198a54) <br>
+[dropna() and fillna()](https://gist.github.com/Z4KKD/55dd952474bc3d3154a883a073fabacb) <br>
 [Contains the character](https://gist.github.com/Z4KKD/7ac9f066742c186beeb8ccb79042357a) <br>
 [Replacement words](https://gist.github.com/Z4KKD/b79fa42882d44e6c1f064923000aee20) <br>
 [Adjust list by normalizing](https://gist.github.com/Z4KKD/6f3b12366e611d65a1c0e1a9a84484f8) <br>
