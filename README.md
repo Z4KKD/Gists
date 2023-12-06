@@ -1,4 +1,7 @@
 # Gist's (Snippets of code)
+[k-means clustering](https://gist.github.com/Z4KKD/37d282f20758ff89a960ed42c4d2458d) <br>
+[LogisticRegression](https://gist.github.com/Z4KKD/985451fab99669599599ebca1fc73b27) <br>
+[Logistic regression using logit](https://gist.github.com/Z4KKD/02a6d3892848838f4e9a8605346fd28f) <br>
 [scale() and MinMaxScaler()](https://gist.github.com/Z4KKD/6219f6c488449676a4ad8400ed198a54) <br>
 [dropna() and fillna()](https://gist.github.com/Z4KKD/55dd952474bc3d3154a883a073fabacb) <br>
 [Contains the character](https://gist.github.com/Z4KKD/7ac9f066742c186beeb8ccb79042357a) <br>
