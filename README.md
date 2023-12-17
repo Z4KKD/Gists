@@ -1,4 +1,7 @@
 # Gist's (Snippets of code)
+[DecisionTreeClassifier using iris data](https://gist.github.com/Z4KKD/9dc8f5891dba23f6e54f48505d649e20)<br>
+[Classification tree using iris data](https://gist.github.com/Z4KKD/b8d00544572043ae704c01a283c52e5d)<br>
+[Regression tree for Boston housing.](https://gist.github.com/Z4KKD/dee7d624e754834900c61ca5fdd7c02d)<br>
 [SQL Top 3 Departments with highest average](https://gist.github.com/Z4KKD/0ba23bc15cf68218d5fe2bb1e3182d60) <br>
 [SQL Managing employees](https://gist.github.com/Z4KKD/1a71c614c07407f8df61c7977d0cd78c) <br>
 [k-means clustering](https://gist.github.com/Z4KKD/37d282f20758ff89a960ed42c4d2458d) <br>
