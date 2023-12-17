@@ -1,4 +1,5 @@
 # Gist's (Snippets of code)
+[SQL Managing employees](https://gist.github.com/Z4KKD/1a71c614c07407f8df61c7977d0cd78c) <br>
 [k-means clustering](https://gist.github.com/Z4KKD/37d282f20758ff89a960ed42c4d2458d) <br>
 [LogisticRegression](https://gist.github.com/Z4KKD/985451fab99669599599ebca1fc73b27) <br>
 [Logistic regression using logit](https://gist.github.com/Z4KKD/02a6d3892848838f4e9a8605346fd28f) <br>
