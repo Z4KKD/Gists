@@ -44,3 +44,4 @@
 [Max magnitude](https://gist.github.com/Z4KKD/7cf11d1657edc32ce64abf4463cd1d7f) <br>
 [Miles to track laps](https://gist.github.com/Z4KKD/f8788b864f2291f19b3beee373e14574) <br>
 [TemperatureConversion](https://gist.github.com/Z4KKD/4cb9337d4d167dde6bbb1f60cb580d0f) <br>
+[IterationAndRecursion](https://gist.github.com/Z4KKD/00ee82099480781cef9ebef164358d12) <br>
