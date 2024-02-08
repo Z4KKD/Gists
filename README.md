@@ -43,3 +43,4 @@
 [Driving cost](https://gist.github.com/Z4KKD/e4a90d167dc52bf2d358ae5bdef813b8) <br>
 [Max magnitude](https://gist.github.com/Z4KKD/7cf11d1657edc32ce64abf4463cd1d7f) <br>
 [Miles to track laps](https://gist.github.com/Z4KKD/f8788b864f2291f19b3beee373e14574) <br>
+[TemperatureConversion](https://gist.github.com/Z4KKD/4cb9337d4d167dde6bbb1f60cb580d0f) <br>
